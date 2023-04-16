@@ -1,0 +1,3 @@
+user:
+   name :  # regiured.Name of the user to create,remove or modify.
+   vid:  # not reguired. Optionally sets the I(UID) of the user.
